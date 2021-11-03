@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    border: 10px solid skyblue;
+    border: 10px solid mediumpurple;
     margin: 0;
     padding: 0;
 }
@@ -11,9 +11,12 @@ img {
 }
 
 .img-start {
-    border: 12px solid blue;
+    border: 12px solid skyblue;
 }
 
 .img-start1 {
-    border: 2px solid blue;
+    border: 2px solid skyblue;
+}
+#img-master{
+    border: 3px dashed yellow;
 }
