@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    border: 10px solid mediumpurple;
+    border: 10px solid paleturquoise;
     margin: 0;
     padding: 0;
 }
@@ -17,6 +17,20 @@ img {
 .img-start1 {
     border: 2px solid skyblue;
 }
-#img-master{
+
+#img-master {
     border: 3px dashed yellow;
+}
+
+.relative {
+    margin-left: 20px;
+    background: pink;
+    width: 1000px;
+    height: 1000px;
+}
+
+.absolute {
+    background: indianred;
+    width: 100px;
+    height: 100px;
 }
