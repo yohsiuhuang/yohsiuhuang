@@ -1,6 +1,19 @@
-*{
-box-sizing: border-box;
-border:10px solid skyblue;
-margin:0;
-padding:0;
+* {
+    box-sizing: border-box;
+    border: 10px solid skyblue;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 100px;
+    heightL: 100px;
+}
+
+.img-start {
+    border: 12px solid blue;
+}
+
+.img-start1 {
+    border: 2px solid blue;
 }
